@@ -37,5 +37,25 @@ body{
     margin-bottom: 50px;
  }
  section{
+    margin: 80px 0px;
+ }
+ .about-me-background-section{
+    background-image: url(images/7.png);
+ }
+ .about-me-img img{
+    width: 50%;
+    margin-left: 150px;
+ }
+ .about-me-section{
     margin-top: 50px;
+ }
+ .about-me-section h2{
+    font-weight: 800;
+    font-size: 40px;
+    color: #707070;
+ }
+ .about-me-section p{
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 50px;
  }
