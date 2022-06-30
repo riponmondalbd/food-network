@@ -67,7 +67,7 @@ body{
     width: 30%;
     margin: 0px 40px;
     padding: 20px;
-    box-shadow: 10px 10px 40px;
+    box-shadow: 1px 1px 9px;
     border-radius: 25px;
  }
  .three-column-section h3{
@@ -82,4 +82,25 @@ body{
 
  .three-column-section img{
     width: 100%;
+ }
+ .coundown-container-section{
+    box-shadow: 1px 1px 9px;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 30px 0;
+ }
+ .coundown-section{
+    width: 100%;
+    padding: 0px 10%;
+ }
+ .coundown-section h1{
+    font-weight: 700;
+    font-size: 48px;
+    color: #18191F;
+ }
+ .coundown-section p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #18191F;
+    margin-top: -25px;
  }
