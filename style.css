@@ -59,3 +59,27 @@ body{
     font-size: 18px;
     margin-bottom: 50px;
  }
+ .recipies-section-heading{
+    text-align: center;
+    padding: 10px 30%;
+ }
+ .three-column-section{
+    width: 30%;
+    margin: 0px 40px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 25px;
+ }
+ .three-column-section h3{
+    font-weight: 900;
+    font-size: 28px;
+    color: #18191F;
+ }
+ .three-column-section p{
+    font-weight: 400;
+    font-size: 18px;
+ }
+
+ .three-column-section img{
+    width: 100%;
+ }
